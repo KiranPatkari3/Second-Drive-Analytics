@@ -5,9 +5,9 @@ import pickle
 import mysql.connector
 
 
-st.set_page_config(page_title="Elites Price Predictor", layout="wide")
+st.set_page_config(page_title="Second Drive Analytics", layout="wide")
 st.title("Data Elites")
-st.markdown("*Empower Your Car Decisions with Data Elites - Where Insights Drive Confidence.*")
+st.markdown("*Empower Your Car Decisions.*")
 st.image("Screenshot 2023-08-25 150653.png")
 
 
