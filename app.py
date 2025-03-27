@@ -4,14 +4,6 @@ import numpy as np
 import pickle
 import mysql.connector
 
-# db_connection = mysql.connector.connect(
-#     user='niket',
-#     password='Agasgekar@123',
-#     host='localhost',
-#     database='feedback',
-#     auth_plugin='mysql_native_password'
-# )
-# db_cursor = db_connection.cursor()
 
 st.set_page_config(page_title="Elites Price Predictor", layout="wide")
 st.title("Data Elites")
